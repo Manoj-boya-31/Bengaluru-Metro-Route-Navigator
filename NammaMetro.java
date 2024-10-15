@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 	
-	public class NammaMetro 
+	public class Graph_M 
 	{
 		public class Vertex 
 		{
